@@ -33,7 +33,8 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",  # адрес фронтенда
+    "http://localhost:3000",
+    "https://canvas-front.onrender.com/"
 ]
 
 ROOT_URLCONF = 'canvas.urls'
