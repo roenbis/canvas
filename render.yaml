@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: canvas
+    env: python
+    buildCommand: |
+      python manage.py collectstatic --noinput
+    startCommand: "gunicorn canvas.wsgi:application --bind 0.0.0.0:$PORT"
+    autoDeploy: true
