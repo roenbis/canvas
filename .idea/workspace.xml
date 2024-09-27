@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85f285e1-6a8e-4b69-97ae-bfc7d6b7de1e" name="Changes" comment="" />
+    <list default="true" id="85f285e1-6a8e-4b69-97ae-bfc7d6b7de1e" name="Changes" comment="fix: requirements" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "roenbis"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/roenbis/canvas.git",
+    "accountId": "aecfe84a-d5c2-474c-8eaa-965d73690631"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -93,11 +105,24 @@
       <workItem from="1727344960860" duration="3243000" />
       <workItem from="1727349174142" duration="240000" />
       <workItem from="1727386697965" duration="4318000" />
-      <workItem from="1727433598674" duration="666000" />
+      <workItem from="1727433598674" duration="1008000" />
     </task>
+    <task id="LOCAL-00001" summary="fix: requirements">
+      <option name="closed" value="true" />
+      <created>1727434290393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727434290393</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix: requirements" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: requirements" />
   </component>
 </project>
